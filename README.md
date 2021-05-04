@@ -31,39 +31,33 @@
  <table>
     <thead>
       <tr>
-        <th>Abbreviation</th>
+        <th align="right">Abbreviation</th>
         <th>Description</th>
       </tr>
     </thead>
-  
     <tbody>
       <tr>
-        <td><code>rfc →</code></td>
+        <td align="right"><code>rfc →</code></td>
         <td>Create an React Functional Component with JavaScript or TypeScript.</td>
       </tr>
-      
       <tr>
-        <td><code>rnfc →</code></td>
+        <td align="right"><code>rnfc →</code></td>
         <td>Create an React Native Functional Component with JavaScript or TypeScript.</td>
       </tr>
-      
       <tr>
-        <td><code>next-page →</code></td>
+        <td align="right"><code>next-page →</code></td>
         <td>Create an Next Page with JavaScript or TypeScript.</td>
       </tr>
-      
       <tr>
-        <td><code>react-hook →</code></td>
+        <td align="right"><code>react-hook →</code></td>
         <td>Create an React Hook file with JavaScript or TypeScript.</td>
       </tr>
-      
       <tr>
-        <td><code>rsc →</code></td>
+        <td align="right"><code>rsc →</code></td>
         <td>Create an React Styled Components file.</td>
       </tr>
-      
       <tr>
-        <td><code>rnsc →</code></td>
+        <td align="right"><code>rnsc →</code></td>
         <td>Create an React Native Styled Components file.</td>
       </tr>
     </tbody>
