@@ -3,7 +3,7 @@
     <img width="90" src="./.github/vscode-logo.png" alt="VSCode Logo">
   </a>
 
-  <h2 align="center">VSCode Snippets</h2>
+  <h3 align="center">VSCode Snippets</h3>
 </p>
 
 <p align="center">
