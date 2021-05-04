@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração para projetos do Visual Studio Code.
+  This project aims to make available a set of **Snippets** or shortcuts for creating components and configuration files for **Visual Studio Code** projects.
 </p>
 
 ### Instalação
