@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Currently, 4 languages are supported, <strong>JavaScript(.js)</strong>, <strong>TypeScript(.ts)</strong>, <strong>JavaScript React(.jsx)</strong> and <strong>TypeScript React(.tsx)</strong>.
+  Currently, 4 languages are supported, <strong>JavaScript (.js)</strong>, <strong>TypeScript (.ts)</strong>, <strong>JavaScript React (.jsx)</strong> and <strong>TypeScript React (.tsx)</strong>.
 </p>
 
 ### Snippets
