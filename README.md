@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gmass0n/vscode-snippets">
-    <img src="./.github/vscode-logo.png" alt="VSCode Logo">
+    <img width="40" src="./.github/vscode-logo.png" alt="VSCode Logo">
   </a>
 
   <h3 align="center">VSCode Snippets</h3>
