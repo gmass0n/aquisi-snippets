@@ -6,11 +6,11 @@
   <h3 align="center">VSCode Snippets</h3>
 </p>
 
+<br/>
+
 <p align="center">
   This project aims to make available a set of <strong>Snippets</strong> or shortcuts for creating components and configuration files for <strong>Visual Studio Code</strong> projects.
 </p>
-
-<br/>
 
 <p align="center">
   To install an extension with this snippets you can run <strong>Command Pallete</strong> using the command <code>Ctrl + Shift + P</code> or <code>Cmd + Shift + P</code>, type <code>Install  Extensions</code> and finally <code>Enter</code>. After, search by <code>VSCode Snippets</code> and you will find the <strong>VSCode Snippets</strong> extension.
