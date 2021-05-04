@@ -11,15 +11,12 @@
 </p>
 
 <p align="center">
-  To install an extension you can run <strong>Command Pallete</strong> using the command <code>Ctrl + Shift + P</code> or <code>Cmd + Shift + P</code>, type <code>Install  Extensions</code> and finally <code>Enter</code>. After, search by <code>VSCode Snippets</code> and you will find the <strong>VSCode Snippets</strong> extension.
+  To install an extension with this snippets you can run <strong>Command Pallete</strong> using the command <code>Ctrl + Shift + P</code> or <code>Cmd + Shift + P</code>, type <code>Install  Extensions</code> and finally <code>Enter</code>. After, search by <code>VSCode Snippets</code> and you will find the <strong>VSCode Snippets</strong> extension.
 </p>
 
-### Linguagens Suportadas
-
-- JavaScript (.js)
-- TypeScript (.ts)
-- JavaScript React (.jsx)
-- TypeScript React (.tsx)
+<p align="center">
+  Currently, 4 languages are supported, <strong>JavaScript(.js)</strong>, <strong>TypeScript(.ts)</strong>, <strong>JavaScript React(.jsx)</strong> and <strong>TypeScript React(.tsx)</strong>.
+</p>
 
 ### Snippets
 
