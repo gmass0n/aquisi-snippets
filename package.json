@@ -1,0 +1,41 @@
+{
+  "name": "aquisi-snippets",
+  "description": "Visual Studio Code snippets created by Aquisi Corp.",
+  "version": "1.0.0",
+  "displayName": "Aquisi Snippets",
+  "publisher": "aquisi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmass0n/aquisi-snippets"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets-ts.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.88.0"
+  }
+}

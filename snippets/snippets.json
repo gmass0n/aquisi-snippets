@@ -1,0 +1,101 @@
+{
+  "Create React hook file with JavaScript": {
+    "scope": "javascript,javascriptreact",
+    "prefix": "react-hook",
+    "body": [
+      "import React, { createContext, useContext } from \"react\";",
+      "",
+      "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context = createContext({});",
+      "",
+      "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Provider = ({ children }) => {",
+      "  return <${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider>{children}</${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider>;",
+      "};",
+      "",
+      "const use${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}} = () => {",
+      "  return useContext(${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context);",
+      "};",
+      "",
+      "export { ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Provider, use${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}} }",
+      ""
+    ],
+    "description": "Snippet to create initial structure of React hook file with JavaScript."
+  },
+  "Create React Functional Component file with JavaScript": {
+    "scope": "javascript,javascriptreact",
+    "prefix": "rfc",
+    "body": [
+      "import React from \"react\";",
+      "",
+      "// import { Container } from './styles';",
+      "",
+      "export const ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} = () => {",
+      "  return (",
+      "    <h1>Hello ${2:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}}</h1>",
+      "  )",
+      "}",
+      ""
+    ],
+    "description": "Snippet to create initial structure of React Functional Component file whit JavaScript."
+  },
+  "Create React Native Functional Component file with JavaScript": {
+    "scope": "javascript,javascriptreact",
+    "prefix": "rnfc",
+    "body": [
+      "import React from 'react';",
+      "import { View, Text } from 'react-native';",
+      "",
+      "// import { Container } from './styles';",
+      "",
+      "export const ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} = () => {",
+      "  return (",
+      "    <View>",
+      "      <Text>Hello ${2:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}}</Text>",
+      "    </View>",
+      "  )",
+      "}",
+      ""
+    ],
+    "description": "Snippet to create initial structure of React Native Functional Component file with TypeScript."
+  },
+  "Create Next Page file with JavaScript": {
+    "scope": "javascript,javascriptreact",
+    "prefix": "next-page",
+    "body": [
+      "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}} = () => {",
+      "  return (",
+      "    <h1>Hello ${2:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}</h1>",
+      "  )",
+      "}",
+      "",
+      "export default ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}",
+      ""
+    ],
+    "description": "Snippet to create initial structure of Next Page file with JavaScript."
+  },
+  "Create React Native Styled Components file": {
+    "scope": "javascript,typescript",
+    "prefix": "rnsc",
+    "body": [
+      "import styled from \"styled-components/native\";",
+      "",
+      "export const ${1:Container} = styled.${2:View}`",
+      "  ${3}",
+      "`;",
+      ""
+    ],
+    "description": "Snippet to create initial structure of React Native Styled Components file."
+  },
+  "Create React Styled Components file": {
+    "scope": "javascript,typescript",
+    "prefix": "rsc",
+    "body": [
+      "import styled from \"styled-components\";",
+      "",
+      "export const ${1:Container} = styled.${2:div}`",
+      "  ${3}",
+      "`;",
+      ""
+    ],
+    "description": "Snippet to create initial structure of React Styled Components file."
+  }
+}
