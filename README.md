@@ -28,7 +28,7 @@
   Below is the list of all available Snippets and abbreviations of each one.
 </p>
 
- <table>
+ <table align="center">
     <thead>
       <tr>
         <th align="right">Abbreviation</th>
@@ -65,4 +65,4 @@
 
 <br/>
 
-<p align="center">Distribuído sob a licença MIT. Veja <code>LICENSE</code> para mais informações.</p>
+<p align="center">Distributed under the <strong>MIT License</strong>. For more information, open file <code>LICENSE</code>.</p>
