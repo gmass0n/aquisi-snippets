@@ -6,9 +6,9 @@
   <h3 align="center">VSCode Snippets</h3>
 </p>
 
-## Sobre o Projeto
-
-Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração para projetos do Visual Studio Code.
+<p align="center">
+  Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração para projetos do Visual Studio Code.
+</p>
 
 ### Instalação
 
