@@ -10,7 +10,7 @@
       "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context = createContext({} as I${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}ContextData);",
       "",
       "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Provider: React.FC = ({ children }) => {",
-      "  return <${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider>{children}</${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider>;",
+      "  return <${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider value={{}}>{children}</${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context.Provider>;",
       "};",
       "",
       "const use${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}} = (): I${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}ContextData => {",
