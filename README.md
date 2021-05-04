@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-reactjs-snippets/master/images/rocketseat_logo.png" alt="Logo">
+  <a href="https://github.com/gmass0n/vscode-snippets">
+    <img src="./.github/vscode-logo.png" alt="VSCode Logo">
   </a>
 
   <h3 align="center">VSCode Snippets</h3>
@@ -23,15 +23,14 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 ### Snippets
 
-|               Abbreviation | Description                                                                   |
-| -------------------------: | ----------------------------------------------------------------------------- |
-|                    `rfc →` | Create an React Functional Component with JavaScript or TypeScript.           |
-|                   `rnfc →` | Create an React Native Functional Component with JavaScript or TypeScript.    |
-|              `next-page →` | Create an Next Page with JavaScript or TypeScript.                            |
-|             `react-hook →` | Create an React Hook file with JavaScript or TypeScript.                      |
-|                    `rsc →` | Create an React Styled Components file.                                       |
-|                   `rnsc →` | Create an React Native Styled Components file.                                       |
-
+|   Abbreviation | Description                                                                |
+| -------------: | -------------------------------------------------------------------------- |
+|        `rfc →` | Create an React Functional Component with JavaScript or TypeScript.        |
+|       `rnfc →` | Create an React Native Functional Component with JavaScript or TypeScript. |
+|  `next-page →` | Create an Next Page with JavaScript or TypeScript.                         |
+| `react-hook →` | Create an React Hook file with JavaScript or TypeScript.                   |
+|        `rsc →` | Create an React Styled Components file.                                    |
+|       `rnsc →` | Create an React Native Styled Components file.                             |
 
 ## Licença
 

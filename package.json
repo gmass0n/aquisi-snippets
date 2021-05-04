@@ -1,13 +1,13 @@
 {
-  "name": "aquisi-snippets",
-  "description": "Visual Studio Code snippets created by Aquisi Corp.",
+  "name": "vscode-snippets",
+  "description": "Visual Studio Code snippets created by Gabriel Masson.",
   "version": "1.0.2",
-  "displayName": "Aquisi Snippets",
+  "displayName": "VSCode Snippets",
   "publisher": "gmass0n",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gmass0n/aquisi-snippets"
+    "url": "https://github.com/gmass0n/vscode-snippets"
   },
   "scripts": {
     "vscode:publish": "vsce package && vsce publish"
