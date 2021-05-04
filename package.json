@@ -1,13 +1,16 @@
 {
   "name": "aquisi-snippets",
   "description": "Visual Studio Code snippets created by Aquisi Corp.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "Aquisi Snippets",
   "publisher": "gmass0n",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/gmass0n/aquisi-snippets"
+  },
+  "scripts": {
+    "vscode:publish": "vsce package && vsce publish"
   },
   "engines": {
     "vscode": "0.10.x"
