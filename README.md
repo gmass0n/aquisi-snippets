@@ -3,16 +3,16 @@
     <img width="100" src="./.github/vscode-logo.png" alt="VSCode Logo">
   </a>
 
-  <h3 align="center">VSCode Snippets</h3>
+  <h1 align="center">VSCode Snippets</h3>
 </p>
 
 <p align="center">
   This project aims to make available a set of <strong>Snippets</strong> or shortcuts for creating components and configuration files for <strong>Visual Studio Code</strong> projects.
 </p>
 
-### Instalação
-
-Para instalar uma extensão você pode executar o **Command Pallete** através do comando `Ctrl + Shift + P` ou `Cmd + Shift + P` , digitar `Install Extensions` e por fim dar um `Enter`, feito isso pesquise por Rocketseat e você vai encontrar a extensão **Rocketseat ReactJS**.
+<p align="center">
+  To install an extension you can run <strong>Command Pallete</strong> using the command <code>Ctrl + Shift + P</code> or <code>Cmd + Shift + P</code>, type <code>Install  Extensions</code> and finally <code>Enter</code>. After, search by <code>VSCode Snippets</code> and you will find the <strong>VSCode Snippets</strong> extension.
+</p>
 
 ### Linguagens Suportadas
 
