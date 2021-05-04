@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gmass0n/vscode-snippets">
-    <img width="90" src="./.github/vscode-logo.png" alt="VSCode Logo">
+    <img width="80" src="./.github/vscode-logo.png" alt="VSCode Logo">
   </a>
 
   <h3 align="center">VSCode Snippets</h3>
@@ -15,8 +15,6 @@
 <p align="center">
   To install an extension with this snippets you can run <strong>Command Pallete</strong> using the command <code>Ctrl + Shift + P</code> or <code>Cmd + Shift + P</code>, type <code>Install  Extensions</code> and finally <code>Enter</code>. After, search by <code>VSCode Snippets</code> and you will find the <strong>VSCode Snippets</strong> extension.
 </p>
-
-<br/>
 
 <p align="center">
   Currently, 4 languages are supported, <strong>JavaScript (.js)</strong>, <strong>TypeScript (.ts)</strong>, <strong>JavaScript React (.jsx)</strong> and <strong>TypeScript React (.tsx)</strong>.
