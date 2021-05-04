@@ -28,15 +28,46 @@
   Below is the list of all available Snippets and abbreviations of each one.
 </p>
 
-|   Abbreviation | Description                                                                |
-| -------------: | -------------------------------------------------------------------------- |
-|        `rfc →` | Create an React Functional Component with JavaScript or TypeScript.        |
-|       `rnfc →` | Create an React Native Functional Component with JavaScript or TypeScript. |
-|  `next-page →` | Create an Next Page with JavaScript or TypeScript.                         |
-| `react-hook →` | Create an React Hook file with JavaScript or TypeScript.                   |
-|        `rsc →` | Create an React Styled Components file.                                    |
-|       `rnsc →` | Create an React Native Styled Components file.                             |
-
+ <table>
+    <thead>
+      <tr>
+        <th>Abbreviation</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+  
+    <tbody>
+      <tr>
+        <td><code>rfc →</code></td>
+        <td>Create an React Functional Component with JavaScript or TypeScript.</td>
+      </tr>
+      
+      <tr>
+        <td><code>rnfc →</code></td>
+        <td>Create an React Native Functional Component with JavaScript or TypeScript.</td>
+      </tr>
+      
+      <tr>
+        <td><code>next-page →</code></td>
+        <td>Create an Next Page with JavaScript or TypeScript.</td>
+      </tr>
+      
+      <tr>
+        <td><code>react-hook →</code></td>
+        <td>Create an React Hook file with JavaScript or TypeScript.</td>
+      </tr>
+      
+      <tr>
+        <td><code>rsc →</code></td>
+        <td>Create an React Styled Components file.</td>
+      </tr>
+      
+      <tr>
+        <td><code>rnsc →</code></td>
+        <td>Create an React Native Styled Components file.</td>
+      </tr>
+    </tbody>
+ </table>
 
 <br/>
 
