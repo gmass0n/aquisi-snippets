@@ -1,10 +1,15 @@
 {
   "name": "vscode-snippets",
   "description": "Visual Studio Code snippets created by Gabriel Masson.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "displayName": "VSCode Snippets",
   "publisher": "gmass0n",
   "license": "MIT",
+  "icon": ".github/vscode-logo.png",
+  "galleryBanner": {
+    "color": "#4991d0",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gmass0n/vscode-snippets"
@@ -13,7 +18,7 @@
     "vscode:publish": "vsce package && vsce publish"
   },
   "engines": {
-    "vscode": "0.10.x"
+    "vscode": "^0.10.5"
   },
   "categories": [
     "Snippets"
