@@ -1,4 +1,4 @@
 node_modules
-aquisi-snippets-*.vsix
+vscode-snippets-*.vsix
 
 yarn-error.log
