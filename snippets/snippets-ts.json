@@ -68,11 +68,6 @@
     "prefix": "next-page",
     "body": [
       "import { NextPage } from \"next\";",
-      "import { ReactNode } from \"react\";",
-      "",
-      "interface ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Props {",
-      "  children?: ReactNode;",
-      "}",
       "",
       "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}: NextPage<${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Props> = () => {",
       "  return (",
