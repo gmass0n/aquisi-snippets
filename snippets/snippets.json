@@ -3,7 +3,7 @@
     "scope": "javascript,javascriptreact",
     "prefix": "react-hook",
     "body": [
-      "import React, { createContext, useContext } from \"react\";",
+      "import { createContext, useContext } from \"react\";",
       "",
       "const ${1:${TM_FILENAME_BASE/(.)/${1:/upcase}/}}Context = createContext({});",
       "",
@@ -24,8 +24,6 @@
     "scope": "javascript,javascriptreact",
     "prefix": "rfc",
     "body": [
-      "import React from \"react\";",
-      "",
       "// import { Container } from './styles';",
       "",
       "export const ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}} = () => {",
@@ -41,7 +39,6 @@
     "scope": "javascript,javascriptreact",
     "prefix": "rnfc",
     "body": [
-      "import React from 'react';",
       "import { View, Text } from 'react-native';",
       "",
       "// import { Container } from './styles';",
